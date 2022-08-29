@@ -1,0 +1,18 @@
+{
+  "name": "sjblog",
+  "version": "1.0.0",
+  "description": "personal bolg which includes posts, projects, and works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.jetbrains.space/seongjin/PERSONAL-BLOG/sjBlog.git"
+  },
+  "author": "seongjin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
